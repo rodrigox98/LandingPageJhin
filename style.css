@@ -5,7 +5,7 @@ body{
 
 .Jhin{
     width: 100%;
-    height: 500px;
+    height: 600px;
 }
 
 .JhinModelos{
@@ -28,4 +28,31 @@ body{
 
 nav {
    
+}
+
+.video{
+    margin-left:22%;
+    padding:5%;
+}
+
+.artigo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: darkgrey;
+}
+
+.form{
+    margin-top: 2em;
+}
+
+.final{
+    margin-top: 3em;;
+    width: 100%;
+    height: 100px;
+    color:darkgrey;
+}
+
+.lista{
+    margin-left: 25%;
 }
